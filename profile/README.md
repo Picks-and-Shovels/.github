@@ -1,6 +1,6 @@
 # FarmWorld
 
-<img src ='../image/background.png' ></img>
+<img src ='.github/image/background.png' ></img>
 
 ## Introduction
 Our 'Picks and Shovel' team participates in the **23-24 Google Solution Challenge**. We supports urban farmers and develops applications that encourage urban agriculture.
@@ -17,7 +17,7 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 
 이재승|강혜린|하선웅|홍현민
 :-:|:-:|:-:|:-:
-<img src='https://avatars.githubusercontent.com/u/26617603?v=4' height=80 width=80px></img>|<img src='../image/hyerinkang.png' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/48426972?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/109195877?v=4' height=80 width=80px></img>
+<img src='https://avatars.githubusercontent.com/u/26617603?v=4' height=80 width=80px></img>|<img src='.github/image/hyerinkang.png' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/48426972?v=4' height=80 width=80px></img>|<img src='https://avatars.githubusercontent.com/u/109195877?v=4' height=80 width=80px></img>
 [Github](https://github.com/js0807)|[Github](https://github.com/hyerinkang)|[Github](https://github.com/devnok)|[Github](https://github.com/HyunminHong619)
 
 ### Contribution  
