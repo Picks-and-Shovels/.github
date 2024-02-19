@@ -1,7 +1,9 @@
 # FarmWorld
 
+<img src ='../image/background.png' ></img>
+
 ## Introduction
-Our 'Picks and Shovel' team supports urban farmers in the 23-24 Google Solution Challenge and develops applications that encourage urban agriculture.
+Our 'Picks and Shovel' team participates in the **23-24 Google Solution Challenge**. We supports urban farmers and develops applications that encourage urban agriculture.
 
 The purpose of our application is to provide useful tips and information to beginners in urban farming and to provide a platform for experienced urban farmers to share their knowledge.
 
