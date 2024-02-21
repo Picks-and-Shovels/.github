@@ -1,6 +1,6 @@
 # FarmWorld
 
-<img src ='image/background.png' ></img>
+<img src ='image/background.png'></img>
 
 ## Introduction
 Our 'Picks and Shovel' team participates in the **23-24 Google Solution Challenge**. We supports urban farmers and develops applications that encourage urban agriculture.
@@ -55,13 +55,13 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 ### Demo Video
 
 
-![vide]()
+![video]()
 
 
 
 
 
-## 🚀 Architecture
+## Tree
 ```
 (example : farm-world-ml)
 .
