@@ -51,8 +51,7 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 
 ### Demo Video
 
-
-![video](https://youtu.be/NAc1R1lS3x4)
+<img src ='image/start.png' href='https://youtu.be/NAc1R1lS3x4'></img>
 
 
 ## How to Use
