@@ -36,9 +36,12 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 
 ### Outline
 
-* Functions
-    * Virtual Farm
-    * Community
+* Diary Page
+    * Write Diary
+    * View Diary
+* Community Page
+    * Posting
+    * Likes, Views
 
 ### Architecture
 
@@ -55,6 +58,12 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 ## How to Use
 
 ```bash
+# server setting
+git clone https://github.com/Picks-and-Shovels/farm-world-server.git
+cd farm-world-server
+npm install
+npm run start:dev
+
 # how to run app
 git clone https://github.com/Picks-and-Shovels/farm-world-app
 cd farm-world-app
