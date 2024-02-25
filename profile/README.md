@@ -45,7 +45,7 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 
 ### Architecture
 
-![architecture](<img src ='image/architecture.png'></img>)
+<img src ='image/architecture.png'></img>
 
 ## Demo
 
