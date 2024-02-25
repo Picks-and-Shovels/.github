@@ -36,15 +36,9 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 
 ### Outline
 
-* Goals
-    * .
 * Functions
     * Virtual Farm
-        * Diary
-        * Character ~
-        * Crop recommendation
     * Community
-        * Post recommendation
 
 ### Architecture
 
@@ -58,55 +52,12 @@ The team's goal is to contribute to creating a 'Sustainable Cities and Communiti
 ![video]()
 
 
-
-
-
-## Tree
-```
-(example : farm-world-ml)
-.
-├── LICENSE
-├── README.md
-├── disease_detection
-│   ├── image
-│   │   ├── apple_cedar_apple_rust.jpg
-│   │   ├── apple_healthy.jpg
-│   │   ├── grape_healthy.jpg
-│   │   ├── raspberry_healthy.jpg
-│   │   └── strawberry_leaf_scorch.JPG
-│   └── pred.py
-├── recommendation
-│   ├── data
-│   │   ├── board.csv
-│   │   ├── board_read_like.csv
-│   │   ├── board_tag.csv
-│   │   ├── farm.csv
-│   │   ├── tag.csv
-│   │   └── user.csv
-│   ├── ipynb
-│   │   ├── matrix_factorization.ipynb
-│   │   ├── recommend.ipynb
-│   │   └── recommend_crop.ipynb
-│   ├── making_csv
-│   │   ├── board_csv.py
-│   │   ├── board_read_like_csv.py
-│   │   ├── board_tag_csv.py
-│   │   ├── farm_csv.py
-│   │   └── user_csv.py
-│   ├── recommend_crop.py
-│   └── recommend_post.py
-├── requirements.txt
-└── setup.sh
-```
-
 ## How to Use
 
 ```bash
-# 프로젝트 다운로드
-git clone https://github.com/Picks-and-Shovels/farm-world-front
-```
-
-## Docker
-```
-.
+# how to run app
+git clone https://github.com/Picks-and-Shovels/farm-world-app
+cd farm-world-app
+npm install
+npm run dev
 ```
